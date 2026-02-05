@@ -1,0 +1,14 @@
+# dependencies
+node_modules/
+
+# build files
+build/
+frontend/build/
+
+# cache
+*.cache
+*.dill
+*.track.dill
+
+# env
+.env
