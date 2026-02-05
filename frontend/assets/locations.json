@@ -1,34 +1,2956 @@
 [
-    {
-        "id": "01",
-        "name": "SRIKAKULAM",
-        "sros": [
-            {
-                "id": "0101",
-                "name": "SRIKAKULAM"
-            },
-            {
-                "id": "0102",
-                "name": "NARASANNAPETA"
-            }
-        ]
-    },
-    {
-        "id": "02",
-        "name": "VISAKHAPATNAM",
-        "sros": [
-            {
-                "id": "0201",
-                "name": "VISAKHAPATNAM"
-            },
-            {
-                "id": "0202",
-                "name": "ANAKAPALLI"
-            },
-            {
-                "id": "0205",
-                "name": "DWARAKANAGAR"
-            }
-        ]
-    }
+  {
+    "id": "01",
+    "name": "REPALLI(712)",
+    "sros": [
+      {
+        "id": "REPALLI(712)",
+        "name": "REPALLI(712)"
+      }
+    ]
+  },
+  {
+    "id": "02",
+    "name": "TENALI(713)",
+    "sros": [
+      {
+        "id": "TENALI(713)",
+        "name": "TENALI(713)"
+      }
+    ]
+  },
+  {
+    "id": "03",
+    "name": "NALLAPADU(716)",
+    "sros": [
+      {
+        "id": "NALLAPADU(716)",
+        "name": "NALLAPADU(716)"
+      }
+    ]
+  },
+  {
+    "id": "04",
+    "name": "PEDAKAKANI(717)",
+    "sros": [
+      {
+        "id": "PEDAKAKANI(717)",
+        "name": "PEDAKAKANI(717)"
+      }
+    ]
+  },
+  {
+    "id": "05",
+    "name": "K.NAGARAM(1013)",
+    "sros": [
+      {
+        "id": "K.NAGARAM(1013)",
+        "name": "K.NAGARAM(1013)"
+      }
+    ]
+  },
+  {
+    "id": "06",
+    "name": "NAGARI(1014)",
+    "sros": [
+      {
+        "id": "NAGARI(1014)",
+        "name": "NAGARI(1014)"
+      }
+    ]
+  },
+  {
+    "id": "07",
+    "name": "PICHATUR(1016)",
+    "sros": [
+      {
+        "id": "PICHATUR(1016)",
+        "name": "PICHATUR(1016)"
+      }
+    ]
+  },
+  {
+    "id": "08",
+    "name": "RENIGUNTA(1018)",
+    "sros": [
+      {
+        "id": "RENIGUNTA(1018)",
+        "name": "RENIGUNTA(1018)"
+      }
+    ]
+  },
+  {
+    "id": "09",
+    "name": "SRIKALAHASTI(1020)",
+    "sros": [
+      {
+        "id": "SRIKALAHASTI(1020)",
+        "name": "SRIKALAHASTI(1020)"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "name": "THOTTAMBEDU(1021)",
+    "sros": [
+      {
+        "id": "THOTTAMBEDU(1021)",
+        "name": "THOTTAMBEDU(1021)"
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "name": "C.K.PALLI(1203)",
+    "sros": [
+      {
+        "id": "C.K.PALLI(1203)",
+        "name": "C.K.PALLI(1203)"
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "name": "DHARMAVARAM(1204)",
+    "sros": [
+      {
+        "id": "DHARMAVARAM(1204)",
+        "name": "DHARMAVARAM(1204)"
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "name": "HINDUPUR(1207)",
+    "sros": [
+      {
+        "id": "HINDUPUR(1207)",
+        "name": "HINDUPUR(1207)"
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "name": "KALYANDURG(1209)",
+    "sros": [
+      {
+        "id": "KALYANDURG(1209)",
+        "name": "KALYANDURG(1209)"
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "name": "MADAKASIRA(1211)",
+    "sros": [
+      {
+        "id": "MADAKASIRA(1211)",
+        "name": "MADAKASIRA(1211)"
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "name": "PAMIDI(1213)",
+    "sros": [
+      {
+        "id": "PAMIDI(1213)",
+        "name": "PAMIDI(1213)"
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "name": "SINGANAMALA(1215)",
+    "sros": [
+      {
+        "id": "SINGANAMALA(1215)",
+        "name": "SINGANAMALA(1215)"
+      }
+    ]
+  },
+  {
+    "id": "18",
+    "name": "THADIPATRI(1216)",
+    "sros": [
+      {
+        "id": "THADIPATRI(1216)",
+        "name": "THADIPATRI(1216)"
+      }
+    ]
+  },
+  {
+    "id": "19",
+    "name": "YADIKI(1219)",
+    "sros": [
+      {
+        "id": "YADIKI(1219)",
+        "name": "YADIKI(1219)"
+      }
+    ]
+  },
+  {
+    "id": "20",
+    "name": "ANANTHAPUR (R.O)(1220)",
+    "sros": [
+      {
+        "id": "ANANTHAPUR (R.O)(1220)",
+        "name": "ANANTHAPUR (R.O)(1220)"
+      }
+    ]
+  },
+  {
+    "id": "21",
+    "name": "KAMALAPURAM(1104)",
+    "sros": [
+      {
+        "id": "KAMALAPURAM(1104)",
+        "name": "KAMALAPURAM(1104)"
+      }
+    ]
+  },
+  {
+    "id": "22",
+    "name": "LAKKIREDDIPALLY(1105)",
+    "sros": [
+      {
+        "id": "LAKKIREDDIPALLY(1105)",
+        "name": "LAKKIREDDIPALLY(1105)"
+      }
+    ]
+  },
+  {
+    "id": "23",
+    "name": "MYDUKUR(1107)",
+    "sros": [
+      {
+        "id": "MYDUKUR(1107)",
+        "name": "MYDUKUR(1107)"
+      }
+    ]
+  },
+  {
+    "id": "24",
+    "name": "MUDDANUR(1108)",
+    "sros": [
+      {
+        "id": "MUDDANUR(1108)",
+        "name": "MUDDANUR(1108)"
+      }
+    ]
+  },
+  {
+    "id": "25",
+    "name": "PULLAMPET(1110)",
+    "sros": [
+      {
+        "id": "PULLAMPET(1110)",
+        "name": "PULLAMPET(1110)"
+      }
+    ]
+  },
+  {
+    "id": "26",
+    "name": "RAYACHOTI(1111)",
+    "sros": [
+      {
+        "id": "RAYACHOTI(1111)",
+        "name": "RAYACHOTI(1111)"
+      }
+    ]
+  },
+  {
+    "id": "27",
+    "name": "RAJAMPET(1112)",
+    "sros": [
+      {
+        "id": "RAJAMPET(1112)",
+        "name": "RAJAMPET(1112)"
+      }
+    ]
+  },
+  {
+    "id": "28",
+    "name": "VEMPALLY(1114)",
+    "sros": [
+      {
+        "id": "VEMPALLY(1114)",
+        "name": "VEMPALLY(1114)"
+      }
+    ]
+  },
+  {
+    "id": "29",
+    "name": "DUVVUR(1115)",
+    "sros": [
+      {
+        "id": "DUVVUR(1115)",
+        "name": "DUVVUR(1115)"
+      }
+    ]
+  },
+  {
+    "id": "30",
+    "name": "T.SUNDUPALLI(1116)",
+    "sros": [
+      {
+        "id": "T.SUNDUPALLI(1116)",
+        "name": "T.SUNDUPALLI(1116)"
+      }
+    ]
+  },
+  {
+    "id": "31",
+    "name": "CUDDAPAH (R.O)(1117)",
+    "sros": [
+      {
+        "id": "CUDDAPAH (R.O)(1117)",
+        "name": "CUDDAPAH (R.O)(1117)"
+      }
+    ]
+  },
+  {
+    "id": "32",
+    "name": "ALLUR(901)",
+    "sros": [
+      {
+        "id": "ALLUR(901)",
+        "name": "ALLUR(901)"
+      }
+    ]
+  },
+  {
+    "id": "33",
+    "name": "ATMAKUR(902)",
+    "sros": [
+      {
+        "id": "ATMAKUR(902)",
+        "name": "ATMAKUR(902)"
+      }
+    ]
+  },
+  {
+    "id": "34",
+    "name": "INDUKURPET(905)",
+    "sros": [
+      {
+        "id": "INDUKURPET(905)",
+        "name": "INDUKURPET(905)"
+      }
+    ]
+  },
+  {
+    "id": "35",
+    "name": "KOTA(907)",
+    "sros": [
+      {
+        "id": "KOTA(907)",
+        "name": "KOTA(907)"
+      }
+    ]
+  },
+  {
+    "id": "36",
+    "name": "KOVUR(908)",
+    "sros": [
+      {
+        "id": "KOVUR(908)",
+        "name": "KOVUR(908)"
+      }
+    ]
+  },
+  {
+    "id": "37",
+    "name": "MUTHUKUR(909)",
+    "sros": [
+      {
+        "id": "MUTHUKUR(909)",
+        "name": "MUTHUKUR(909)"
+      }
+    ]
+  },
+  {
+    "id": "38",
+    "name": "NAIDUPET(910)",
+    "sros": [
+      {
+        "id": "NAIDUPET(910)",
+        "name": "NAIDUPET(910)"
+      }
+    ]
+  },
+  {
+    "id": "39",
+    "name": "PODALAKUR(911)",
+    "sros": [
+      {
+        "id": "PODALAKUR(911)",
+        "name": "PODALAKUR(911)"
+      }
+    ]
+  },
+  {
+    "id": "40",
+    "name": "TANUKU(522)",
+    "sros": [
+      {
+        "id": "TANUKU(522)",
+        "name": "TANUKU(522)"
+      }
+    ]
+  },
+  {
+    "id": "41",
+    "name": "GUDIVADA(603)",
+    "sros": [
+      {
+        "id": "GUDIVADA(603)",
+        "name": "GUDIVADA(603)"
+      }
+    ]
+  },
+  {
+    "id": "42",
+    "name": "MUDINEPALLI(609)",
+    "sros": [
+      {
+        "id": "MUDINEPALLI(609)",
+        "name": "MUDINEPALLI(609)"
+      }
+    ]
+  },
+  {
+    "id": "43",
+    "name": "KANKIPADU(617)",
+    "sros": [
+      {
+        "id": "KANKIPADU(617)",
+        "name": "KANKIPADU(617)"
+      }
+    ]
+  },
+  {
+    "id": "44",
+    "name": "VUYYURU(623)",
+    "sros": [
+      {
+        "id": "VUYYURU(623)",
+        "name": "VUYYURU(623)"
+      }
+    ]
+  },
+  {
+    "id": "45",
+    "name": "PONNURU(710)",
+    "sros": [
+      {
+        "id": "PONNURU(710)",
+        "name": "PONNURU(710)"
+      }
+    ]
+  },
+  {
+    "id": "46",
+    "name": "PHIRANGIPURAM(726)",
+    "sros": [
+      {
+        "id": "PHIRANGIPURAM(726)",
+        "name": "PHIRANGIPURAM(726)"
+      }
+    ]
+  },
+  {
+    "id": "47",
+    "name": "SINGARAYAKONDA(816)",
+    "sros": [
+      {
+        "id": "SINGARAYAKONDA(816)",
+        "name": "SINGARAYAKONDA(816)"
+      }
+    ]
+  },
+  {
+    "id": "48",
+    "name": "CUMBUM(804)",
+    "sros": [
+      {
+        "id": "CUMBUM(804)",
+        "name": "CUMBUM(804)"
+      }
+    ]
+  },
+  {
+    "id": "49",
+    "name": "YERRAGONDAPALEM(817)",
+    "sros": [
+      {
+        "id": "YERRAGONDAPALEM(817)",
+        "name": "YERRAGONDAPALEM(817)"
+      }
+    ]
+  },
+  {
+    "id": "50",
+    "name": "SULLURPET(913)",
+    "sros": [
+      {
+        "id": "SULLURPET(913)",
+        "name": "SULLURPET(913)"
+      }
+    ]
+  },
+  {
+    "id": "51",
+    "name": "PALAMANER(1006)",
+    "sros": [
+      {
+        "id": "PALAMANER(1006)",
+        "name": "PALAMANER(1006)"
+      }
+    ]
+  },
+  {
+    "id": "52",
+    "name": "SATHYAVEDU(1019)",
+    "sros": [
+      {
+        "id": "SATHYAVEDU(1019)",
+        "name": "SATHYAVEDU(1019)"
+      }
+    ]
+  },
+  {
+    "id": "53",
+    "name": "KALLUR(1322)",
+    "sros": [
+      {
+        "id": "KALLUR(1322)",
+        "name": "KALLUR(1322)"
+      }
+    ]
+  },
+  {
+    "id": "54",
+    "name": "BANAGANAPALLI(1306)",
+    "sros": [
+      {
+        "id": "BANAGANAPALLI(1306)",
+        "name": "BANAGANAPALLI(1306)"
+      }
+    ]
+  },
+  {
+    "id": "55",
+    "name": "BHOGAPURAM(202)",
+    "sros": [
+      {
+        "id": "BHOGAPURAM(202)",
+        "name": "BHOGAPURAM(202)"
+      }
+    ]
+  },
+  {
+    "id": "56",
+    "name": "CHIPURUPALLI(203)",
+    "sros": [
+      {
+        "id": "CHIPURUPALLI(203)",
+        "name": "CHIPURUPALLI(203)"
+      }
+    ]
+  },
+  {
+    "id": "57",
+    "name": "BHEEMUNIPATNAM(302)",
+    "sros": [
+      {
+        "id": "BHEEMUNIPATNAM(302)",
+        "name": "BHEEMUNIPATNAM(302)"
+      }
+    ]
+  },
+  {
+    "id": "58",
+    "name": "NARSIPATNAM(307)",
+    "sros": [
+      {
+        "id": "NARSIPATNAM(307)",
+        "name": "NARSIPATNAM(307)"
+      }
+    ]
+  },
+  {
+    "id": "59",
+    "name": "KADIYAM(420)",
+    "sros": [
+      {
+        "id": "KADIYAM(420)",
+        "name": "KADIYAM(420)"
+      }
+    ]
+  },
+  {
+    "id": "60",
+    "name": "KAMAVARAPUKOTA(506)",
+    "sros": [
+      {
+        "id": "KAMAVARAPUKOTA(506)",
+        "name": "KAMAVARAPUKOTA(506)"
+      }
+    ]
+  },
+  {
+    "id": "61",
+    "name": "ACHANTA(513)",
+    "sros": [
+      {
+        "id": "ACHANTA(513)",
+        "name": "ACHANTA(513)"
+      }
+    ]
+  },
+  {
+    "id": "62",
+    "name": "KAVUTHARAM(606)",
+    "sros": [
+      {
+        "id": "KAVUTHARAM(606)",
+        "name": "KAVUTHARAM(606)"
+      }
+    ]
+  },
+  {
+    "id": "63",
+    "name": "MOVVA(608)",
+    "sros": [
+      {
+        "id": "MOVVA(608)",
+        "name": "MOVVA(608)"
+      }
+    ]
+  },
+  {
+    "id": "64",
+    "name": "BAPATLA(720)",
+    "sros": [
+      {
+        "id": "BAPATLA(720)",
+        "name": "BAPATLA(720)"
+      }
+    ]
+  },
+  {
+    "id": "65",
+    "name": "AMMANABROLU(802)",
+    "sros": [
+      {
+        "id": "AMMANABROLU(802)",
+        "name": "AMMANABROLU(802)"
+      }
+    ]
+  },
+  {
+    "id": "66",
+    "name": "PODILI(813)",
+    "sros": [
+      {
+        "id": "PODILI(813)",
+        "name": "PODILI(813)"
+      }
+    ]
+  },
+  {
+    "id": "67",
+    "name": "PILER(1007)",
+    "sros": [
+      {
+        "id": "PILER(1007)",
+        "name": "PILER(1007)"
+      }
+    ]
+  },
+  {
+    "id": "68",
+    "name": "KODUMUR(1309)",
+    "sros": [
+      {
+        "id": "KODUMUR(1309)",
+        "name": "KODUMUR(1309)"
+      }
+    ]
+  },
+  {
+    "id": "69",
+    "name": "BUKKAPATNAM(1201)",
+    "sros": [
+      {
+        "id": "BUKKAPATNAM(1201)",
+        "name": "BUKKAPATNAM(1201)"
+      }
+    ]
+  },
+  {
+    "id": "70",
+    "name": "PENUKONDA(1212)",
+    "sros": [
+      {
+        "id": "PENUKONDA(1212)",
+        "name": "PENUKONDA(1212)"
+      }
+    ]
+  },
+  {
+    "id": "71",
+    "name": "VISSANNAPET(626)",
+    "sros": [
+      {
+        "id": "VISSANNAPET(626)",
+        "name": "VISSANNAPET(626)"
+      }
+    ]
+  },
+  {
+    "id": "72",
+    "name": "KORUKONDA(422)",
+    "sros": [
+      {
+        "id": "KORUKONDA(422)",
+        "name": "KORUKONDA(422)"
+      }
+    ]
+  },
+  {
+    "id": "73",
+    "name": "S.KOTA(210)",
+    "sros": [
+      {
+        "id": "S.KOTA(210)",
+        "name": "S.KOTA(210)"
+      }
+    ]
+  },
+  {
+    "id": "74",
+    "name": "SARPAVARAM(431)",
+    "sros": [
+      {
+        "id": "SARPAVARAM(431)",
+        "name": "SARPAVARAM(431)"
+      }
+    ]
+  },
+  {
+    "id": "75",
+    "name": "PIDUGURALLA(727)",
+    "sros": [
+      {
+        "id": "PIDUGURALLA(727)",
+        "name": "PIDUGURALLA(727)"
+      }
+    ]
+  },
+  {
+    "id": "76",
+    "name": "GAJAPATHINAGARAM(204)",
+    "sros": [
+      {
+        "id": "GAJAPATHINAGARAM(204)",
+        "name": "GAJAPATHINAGARAM(204)"
+      }
+    ]
+  },
+  {
+    "id": "77",
+    "name": "ATMAKUR(1305)",
+    "sros": [
+      {
+        "id": "ATMAKUR(1305)",
+        "name": "ATMAKUR(1305)"
+      }
+    ]
+  },
+  {
+    "id": "78",
+    "name": "TADIKONDA(714)",
+    "sros": [
+      {
+        "id": "TADIKONDA(714)",
+        "name": "TADIKONDA(714)"
+      }
+    ]
+  },
+  {
+    "id": "79",
+    "name": "TENALI(WEST)(718)",
+    "sros": [
+      {
+        "id": "TENALI(WEST)(718)",
+        "name": "TENALI(WEST)(718)"
+      }
+    ]
+  },
+  {
+    "id": "80",
+    "name": "NELLIMARLA(207)",
+    "sros": [
+      {
+        "id": "NELLIMARLA(207)",
+        "name": "NELLIMARLA(207)"
+      }
+    ]
+  },
+  {
+    "id": "81",
+    "name": "BICCAVOLU(402)",
+    "sros": [
+      {
+        "id": "BICCAVOLU(402)",
+        "name": "BICCAVOLU(402)"
+      }
+    ]
+  },
+  {
+    "id": "82",
+    "name": "GUDUR",
+    "sros": [
+      {
+        "id": "GUDUR-Kurnool(1308)",
+        "name": "GUDUR-Kurnool(1308)"
+      },
+      {
+        "id": "GUDUR-Nellor(904)",
+        "name": "GUDUR-Nellor(904)"
+      }
+    ]
+  },
+  {
+    "id": "83",
+    "name": "TIRUPATHI (R.0)(1022)",
+    "sros": [
+      {
+        "id": "TIRUPATHI (R.0)(1022)",
+        "name": "TIRUPATHI (R.0)(1022)"
+      }
+    ]
+  },
+  {
+    "id": "84",
+    "name": "SIDDOUT(1113)",
+    "sros": [
+      {
+        "id": "SIDDOUT(1113)",
+        "name": "SIDDOUT(1113)"
+      }
+    ]
+  },
+  {
+    "id": "85",
+    "name": "AMRUTHALURU(707)",
+    "sros": [
+      {
+        "id": "AMRUTHALURU(707)",
+        "name": "AMRUTHALURU(707)"
+      }
+    ]
+  },
+  {
+    "id": "86",
+    "name": "PEDAKURAPADU(728)",
+    "sros": [
+      {
+        "id": "PEDAKURAPADU(728)",
+        "name": "PEDAKURAPADU(728)"
+      }
+    ]
+  },
+  {
+    "id": "87",
+    "name": "PEDANA(611)",
+    "sros": [
+      {
+        "id": "PEDANA(611)",
+        "name": "PEDANA(611)"
+      }
+    ]
+  },
+  {
+    "id": "88",
+    "name": "AMBAJIPET(415)",
+    "sros": [
+      {
+        "id": "AMBAJIPET(415)",
+        "name": "AMBAJIPET(415)"
+      }
+    ]
+  },
+  {
+    "id": "89",
+    "name": "K.KOTAPADU(304)",
+    "sros": [
+      {
+        "id": "K.KOTAPADU(304)",
+        "name": "K.KOTAPADU(304)"
+      }
+    ]
+  },
+  {
+    "id": "90",
+    "name": "RAJAM(111)",
+    "sros": [
+      {
+        "id": "RAJAM(111)",
+        "name": "RAJAM(111)"
+      }
+    ]
+  },
+  {
+    "id": "91",
+    "name": "KAVALI(906)",
+    "sros": [
+      {
+        "id": "KAVALI(906)",
+        "name": "KAVALI(906)"
+      }
+    ]
+  },
+  {
+    "id": "92",
+    "name": "MACHILIPATNAM(R.O)(612)",
+    "sros": [
+      {
+        "id": "MACHILIPATNAM(R.O)(612)",
+        "name": "MACHILIPATNAM(R.O)(612)"
+      }
+    ]
+  },
+  {
+    "id": "93",
+    "name": "VAYALPADU(1010)",
+    "sros": [
+      {
+        "id": "VAYALPADU(1010)",
+        "name": "VAYALPADU(1010)"
+      }
+    ]
+  },
+  {
+    "id": "94",
+    "name": "PRODDATUR(1106)",
+    "sros": [
+      {
+        "id": "PRODDATUR(1106)",
+        "name": "PRODDATUR(1106)"
+      }
+    ]
+  },
+  {
+    "id": "95",
+    "name": "NELLORE (R.O)(917)",
+    "sros": [
+      {
+        "id": "NELLORE (R.O)(917)",
+        "name": "NELLORE (R.O)(917)"
+      }
+    ]
+  },
+  {
+    "id": "96",
+    "name": "ADDANKI(801)",
+    "sros": [
+      {
+        "id": "ADDANKI(801)",
+        "name": "ADDANKI(801)"
+      }
+    ]
+  },
+  {
+    "id": "97",
+    "name": "CHIRALA(803)",
+    "sros": [
+      {
+        "id": "CHIRALA(803)",
+        "name": "CHIRALA(803)"
+      }
+    ]
+  },
+  {
+    "id": "98",
+    "name": "DARSI(806)",
+    "sros": [
+      {
+        "id": "DARSI(806)",
+        "name": "DARSI(806)"
+      }
+    ]
+  },
+  {
+    "id": "99",
+    "name": "GIDDALUR(807)",
+    "sros": [
+      {
+        "id": "GIDDALUR(807)",
+        "name": "GIDDALUR(807)"
+      }
+    ]
+  },
+  {
+    "id": "100",
+    "name": "INKOLLU(808)",
+    "sros": [
+      {
+        "id": "INKOLLU(808)",
+        "name": "INKOLLU(808)"
+      }
+    ]
+  },
+  {
+    "id": "101",
+    "name": "KANIGIRI(810)",
+    "sros": [
+      {
+        "id": "KANIGIRI(810)",
+        "name": "KANIGIRI(810)"
+      }
+    ]
+  },
+  {
+    "id": "102",
+    "name": "MARTOOR(812)",
+    "sros": [
+      {
+        "id": "MARTOOR(812)",
+        "name": "MARTOOR(812)"
+      }
+    ]
+  },
+  {
+    "id": "103",
+    "name": "PARCHUR(815)",
+    "sros": [
+      {
+        "id": "PARCHUR(815)",
+        "name": "PARCHUR(815)"
+      }
+    ]
+  },
+  {
+    "id": "104",
+    "name": "AMARAVATHI(719)",
+    "sros": [
+      {
+        "id": "AMARAVATHI(719)",
+        "name": "AMARAVATHI(719)"
+      }
+    ]
+  },
+  {
+    "id": "105",
+    "name": "MACHERLA(725)",
+    "sros": [
+      {
+        "id": "MACHERLA(725)",
+        "name": "MACHERLA(725)"
+      }
+    ]
+  },
+  {
+    "id": "106",
+    "name": "SATTENAPALLI(729)",
+    "sros": [
+      {
+        "id": "SATTENAPALLI(729)",
+        "name": "SATTENAPALLI(729)"
+      }
+    ]
+  },
+  {
+    "id": "107",
+    "name": "NARASARAOPET (R.O)(731)",
+    "sros": [
+      {
+        "id": "NARASARAOPET (R.O)(731)",
+        "name": "NARASARAOPET (R.O)(731)"
+      }
+    ]
+  },
+  {
+    "id": "108",
+    "name": "CHEBROLU(702)",
+    "sros": [
+      {
+        "id": "CHEBROLU(702)",
+        "name": "CHEBROLU(702)"
+      }
+    ]
+  },
+  {
+    "id": "109",
+    "name": "CHERUKUPALLI(703)",
+    "sros": [
+      {
+        "id": "CHERUKUPALLI(703)",
+        "name": "CHERUKUPALLI(703)"
+      }
+    ]
+  },
+  {
+    "id": "110",
+    "name": "KOLLURU(705)",
+    "sros": [
+      {
+        "id": "KOLLURU(705)",
+        "name": "KOLLURU(705)"
+      }
+    ]
+  },
+  {
+    "id": "111",
+    "name": "KOLLIPARA(706)",
+    "sros": [
+      {
+        "id": "KOLLIPARA(706)",
+        "name": "KOLLIPARA(706)"
+      }
+    ]
+  },
+  {
+    "id": "112",
+    "name": "MANGALAGIRI(708)",
+    "sros": [
+      {
+        "id": "MANGALAGIRI(708)",
+        "name": "MANGALAGIRI(708)"
+      }
+    ]
+  },
+  {
+    "id": "113",
+    "name": "M.V.PALEM(709)",
+    "sros": [
+      {
+        "id": "M.V.PALEM(709)",
+        "name": "M.V.PALEM(709)"
+      }
+    ]
+  },
+  {
+    "id": "114",
+    "name": "PRATHIPADU(711)",
+    "sros": [
+      {
+        "id": "PRATHIPADU(711)",
+        "name": "PRATHIPADU(711)"
+      }
+    ]
+  },
+  {
+    "id": "115",
+    "name": "GANNAVARAM(614)",
+    "sros": [
+      {
+        "id": "GANNAVARAM(614)",
+        "name": "GANNAVARAM(614)"
+      }
+    ]
+  },
+  {
+    "id": "116",
+    "name": "NUZVIDU(620)",
+    "sros": [
+      {
+        "id": "NUZVIDU(620)",
+        "name": "NUZVIDU(620)"
+      }
+    ]
+  },
+  {
+    "id": "117",
+    "name": "TIRUVURU(622)",
+    "sros": [
+      {
+        "id": "TIRUVURU(622)",
+        "name": "TIRUVURU(622)"
+      }
+    ]
+  },
+  {
+    "id": "118",
+    "name": "MYLAVARAM(625)",
+    "sros": [
+      {
+        "id": "MYLAVARAM(625)",
+        "name": "MYLAVARAM(625)"
+      }
+    ]
+  },
+  {
+    "id": "119",
+    "name": "VIJAYAWADA(627)",
+    "sros": [
+      {
+        "id": "VIJAYAWADA(627)",
+        "name": "VIJAYAWADA(627)"
+      }
+    ]
+  },
+  {
+    "id": "120",
+    "name": "AVANIGADDA(601)",
+    "sros": [
+      {
+        "id": "AVANIGADDA(601)",
+        "name": "AVANIGADDA(601)"
+      }
+    ]
+  },
+  {
+    "id": "121",
+    "name": "CHALLAPALLI(602)",
+    "sros": [
+      {
+        "id": "CHALLAPALLI(602)",
+        "name": "CHALLAPALLI(602)"
+      }
+    ]
+  },
+  {
+    "id": "122",
+    "name": "KAIKALUR(604)",
+    "sros": [
+      {
+        "id": "KAIKALUR(604)",
+        "name": "KAIKALUR(604)"
+      }
+    ]
+  },
+  {
+    "id": "123",
+    "name": "KANUMOLE(605)",
+    "sros": [
+      {
+        "id": "KANUMOLE(605)",
+        "name": "KANUMOLE(605)"
+      }
+    ]
+  },
+  {
+    "id": "124",
+    "name": "MANDAVALLI(607)",
+    "sros": [
+      {
+        "id": "MANDAVALLI(607)",
+        "name": "MANDAVALLI(607)"
+      }
+    ]
+  },
+  {
+    "id": "125",
+    "name": "BANTUMILLY(613)",
+    "sros": [
+      {
+        "id": "BANTUMILLY(613)",
+        "name": "BANTUMILLY(613)"
+      }
+    ]
+  },
+  {
+    "id": "126",
+    "name": "ATTILI(512)",
+    "sros": [
+      {
+        "id": "ATTILI(512)",
+        "name": "ATTILI(512)"
+      }
+    ]
+  },
+  {
+    "id": "127",
+    "name": "AKIVIDU(514)",
+    "sros": [
+      {
+        "id": "AKIVIDU(514)",
+        "name": "AKIVIDU(514)"
+      }
+    ]
+  },
+  {
+    "id": "128",
+    "name": "GANAPAVARAM(516)",
+    "sros": [
+      {
+        "id": "GANAPAVARAM(516)",
+        "name": "GANAPAVARAM(516)"
+      }
+    ]
+  },
+  {
+    "id": "129",
+    "name": "PALAKOL(519)",
+    "sros": [
+      {
+        "id": "PALAKOL(519)",
+        "name": "PALAKOL(519)"
+      }
+    ]
+  },
+  {
+    "id": "130",
+    "name": "PENTAPADU(521)",
+    "sros": [
+      {
+        "id": "PENTAPADU(521)",
+        "name": "PENTAPADU(521)"
+      }
+    ]
+  },
+  {
+    "id": "131",
+    "name": "UNDI(523)",
+    "sros": [
+      {
+        "id": "UNDI(523)",
+        "name": "UNDI(523)"
+      }
+    ]
+  },
+  {
+    "id": "132",
+    "name": "ANANTHAPALLI(501)",
+    "sros": [
+      {
+        "id": "ANANTHAPALLI(501)",
+        "name": "ANANTHAPALLI(501)"
+      }
+    ]
+  },
+  {
+    "id": "133",
+    "name": "BHIMADOLE(502)",
+    "sros": [
+      {
+        "id": "BHIMADOLE(502)",
+        "name": "BHIMADOLE(502)"
+      }
+    ]
+  },
+  {
+    "id": "134",
+    "name": "J.R.GUDEM(504)",
+    "sros": [
+      {
+        "id": "J.R.GUDEM(504)",
+        "name": "J.R.GUDEM(504)"
+      }
+    ]
+  },
+  {
+    "id": "135",
+    "name": "KOVVUR(505)",
+    "sros": [
+      {
+        "id": "KOVVUR(505)",
+        "name": "KOVVUR(505)"
+      }
+    ]
+  },
+  {
+    "id": "136",
+    "name": "NIDADAVOLE(507)",
+    "sros": [
+      {
+        "id": "NIDADAVOLE(507)",
+        "name": "NIDADAVOLE(507)"
+      }
+    ]
+  },
+  {
+    "id": "137",
+    "name": "POLAVARAM(508)",
+    "sros": [
+      {
+        "id": "POLAVARAM(508)",
+        "name": "POLAVARAM(508)"
+      }
+    ]
+  },
+  {
+    "id": "138",
+    "name": "TADEPALLIGUDEM(509)",
+    "sros": [
+      {
+        "id": "TADEPALLIGUDEM(509)",
+        "name": "TADEPALLIGUDEM(509)"
+      }
+    ]
+  },
+  {
+    "id": "139",
+    "name": "AMALAPURAM(414)",
+    "sros": [
+      {
+        "id": "AMALAPURAM(414)",
+        "name": "AMALAPURAM(414)"
+      }
+    ]
+  },
+  {
+    "id": "140",
+    "name": "ALLAVARAM(416)",
+    "sros": [
+      {
+        "id": "ALLAVARAM(416)",
+        "name": "ALLAVARAM(416)"
+      }
+    ]
+  },
+  {
+    "id": "141",
+    "name": "ANAPARTHI(417)",
+    "sros": [
+      {
+        "id": "ANAPARTHI(417)",
+        "name": "ANAPARTHI(417)"
+      }
+    ]
+  },
+  {
+    "id": "142",
+    "name": "ATREYAPURAM(418)",
+    "sros": [
+      {
+        "id": "ATREYAPURAM(418)",
+        "name": "ATREYAPURAM(418)"
+      }
+    ]
+  },
+  {
+    "id": "143",
+    "name": "I.POLAVARAM(419)",
+    "sros": [
+      {
+        "id": "I.POLAVARAM(419)",
+        "name": "I.POLAVARAM(419)"
+      }
+    ]
+  },
+  {
+    "id": "144",
+    "name": "KOTHAPETA(421)",
+    "sros": [
+      {
+        "id": "KOTHAPETA(421)",
+        "name": "KOTHAPETA(421)"
+      }
+    ]
+  },
+  {
+    "id": "145",
+    "name": "MALIKIPURAM(424)",
+    "sros": [
+      {
+        "id": "MALIKIPURAM(424)",
+        "name": "MALIKIPURAM(424)"
+      }
+    ]
+  },
+  {
+    "id": "146",
+    "name": "MUMMUDIVARAM(425)",
+    "sros": [
+      {
+        "id": "MUMMUDIVARAM(425)",
+        "name": "MUMMUDIVARAM(425)"
+      }
+    ]
+  },
+  {
+    "id": "147",
+    "name": "RAJANAGARAM(427)",
+    "sros": [
+      {
+        "id": "RAJANAGARAM(427)",
+        "name": "RAJANAGARAM(427)"
+      }
+    ]
+  },
+  {
+    "id": "148",
+    "name": "SEETHANAGARAM(430)",
+    "sros": [
+      {
+        "id": "SEETHANAGARAM(430)",
+        "name": "SEETHANAGARAM(430)"
+      }
+    ]
+  },
+  {
+    "id": "149",
+    "name": "ALAMURU(401)",
+    "sros": [
+      {
+        "id": "ALAMURU(401)",
+        "name": "ALAMURU(401)"
+      }
+    ]
+  },
+  {
+    "id": "150",
+    "name": "DRAKSHARAMA(403)",
+    "sros": [
+      {
+        "id": "DRAKSHARAMA(403)",
+        "name": "DRAKSHARAMA(403)"
+      }
+    ]
+  },
+  {
+    "id": "151",
+    "name": "JAGGAMPETA(404)",
+    "sros": [
+      {
+        "id": "JAGGAMPETA(404)",
+        "name": "JAGGAMPETA(404)"
+      }
+    ]
+  },
+  {
+    "id": "152",
+    "name": "PITHAPURAM(406)",
+    "sros": [
+      {
+        "id": "PITHAPURAM(406)",
+        "name": "PITHAPURAM(406)"
+      }
+    ]
+  },
+  {
+    "id": "153",
+    "name": "PEDDAPURAM(407)",
+    "sros": [
+      {
+        "id": "PEDDAPURAM(407)",
+        "name": "PEDDAPURAM(407)"
+      }
+    ]
+  },
+  {
+    "id": "154",
+    "name": "RAMACHANDRAPURAM(409)",
+    "sros": [
+      {
+        "id": "RAMACHANDRAPURAM(409)",
+        "name": "RAMACHANDRAPURAM(409)"
+      }
+    ]
+  },
+  {
+    "id": "155",
+    "name": "KAKINADA(R.O)(413)",
+    "sros": [
+      {
+        "id": "KAKINADA(R.O)(413)",
+        "name": "KAKINADA(R.O)(413)"
+      }
+    ]
+  },
+  {
+    "id": "156",
+    "name": "ANAKAPALLI(301)",
+    "sros": [
+      {
+        "id": "ANAKAPALLI(301)",
+        "name": "ANAKAPALLI(301)"
+      }
+    ]
+  },
+  {
+    "id": "157",
+    "name": "CHODAVARAM(303)",
+    "sros": [
+      {
+        "id": "CHODAVARAM(303)",
+        "name": "CHODAVARAM(303)"
+      }
+    ]
+  },
+  {
+    "id": "158",
+    "name": "KOTAURATLA(305)",
+    "sros": [
+      {
+        "id": "KOTAURATLA(305)",
+        "name": "KOTAURATLA(305)"
+      }
+    ]
+  },
+  {
+    "id": "159",
+    "name": "YELAMANCHILI(310)",
+    "sros": [
+      {
+        "id": "YELAMANCHILI(310)",
+        "name": "YELAMANCHILI(310)"
+      }
+    ]
+  },
+  {
+    "id": "160",
+    "name": "GAJUWAKA(312)",
+    "sros": [
+      {
+        "id": "GAJUWAKA(312)",
+        "name": "GAJUWAKA(312)"
+      }
+    ]
+  },
+  {
+    "id": "161",
+    "name": "GOPALAPATNAM(313)",
+    "sros": [
+      {
+        "id": "GOPALAPATNAM(313)",
+        "name": "GOPALAPATNAM(313)"
+      }
+    ]
+  },
+  {
+    "id": "162",
+    "name": "DWARAKANAGAR(314)",
+    "sros": [
+      {
+        "id": "DWARAKANAGAR(314)",
+        "name": "DWARAKANAGAR(314)"
+      }
+    ]
+  },
+  {
+    "id": "163",
+    "name": "MADURAWADA(315)",
+    "sros": [
+      {
+        "id": "MADURAWADA(315)",
+        "name": "MADURAWADA(315)"
+      }
+    ]
+  },
+  {
+    "id": "164",
+    "name": "KOTHAVALASA(205)",
+    "sros": [
+      {
+        "id": "KOTHAVALASA(205)",
+        "name": "KOTHAVALASA(205)"
+      }
+    ]
+  },
+  {
+    "id": "165",
+    "name": "KURUPAM(206)",
+    "sros": [
+      {
+        "id": "KURUPAM(206)",
+        "name": "KURUPAM(206)"
+      }
+    ]
+  },
+  {
+    "id": "166",
+    "name": "SALURU(209)",
+    "sros": [
+      {
+        "id": "SALURU(209)",
+        "name": "SALURU(209)"
+      }
+    ]
+  },
+  {
+    "id": "167",
+    "name": "VIZIANAGARAM (R.O)(212)",
+    "sros": [
+      {
+        "id": "VIZIANAGARAM (R.O)(212)",
+        "name": "VIZIANAGARAM (R.O)(212)"
+      }
+    ]
+  },
+  {
+    "id": "168",
+    "name": "AMADALAVALASA(101)",
+    "sros": [
+      {
+        "id": "AMADALAVALASA(101)",
+        "name": "AMADALAVALASA(101)"
+      }
+    ]
+  },
+  {
+    "id": "169",
+    "name": "ICHAPURAM(103)",
+    "sros": [
+      {
+        "id": "ICHAPURAM(103)",
+        "name": "ICHAPURAM(103)"
+      }
+    ]
+  },
+  {
+    "id": "170",
+    "name": "KASIBUGGA(104)",
+    "sros": [
+      {
+        "id": "KASIBUGGA(104)",
+        "name": "KASIBUGGA(104)"
+      }
+    ]
+  },
+  {
+    "id": "171",
+    "name": "KOTABOMMALI(105)",
+    "sros": [
+      {
+        "id": "KOTABOMMALI(105)",
+        "name": "KOTABOMMALI(105)"
+      }
+    ]
+  },
+  {
+    "id": "172",
+    "name": "MANDASA(106)",
+    "sros": [
+      {
+        "id": "MANDASA(106)",
+        "name": "MANDASA(106)"
+      }
+    ]
+  },
+  {
+    "id": "173",
+    "name": "NARSANNAPET(107)",
+    "sros": [
+      {
+        "id": "NARSANNAPET(107)",
+        "name": "NARSANNAPET(107)"
+      }
+    ]
+  },
+  {
+    "id": "174",
+    "name": "PALAKONDA(108)",
+    "sros": [
+      {
+        "id": "PALAKONDA(108)",
+        "name": "PALAKONDA(108)"
+      }
+    ]
+  },
+  {
+    "id": "175",
+    "name": "RANASTHALAM(112)",
+    "sros": [
+      {
+        "id": "RANASTHALAM(112)",
+        "name": "RANASTHALAM(112)"
+      }
+    ]
+  },
+  {
+    "id": "176",
+    "name": "SOMPETA(113)",
+    "sros": [
+      {
+        "id": "SOMPETA(113)",
+        "name": "SOMPETA(113)"
+      }
+    ]
+  },
+  {
+    "id": "177",
+    "name": "TEKKALI(114)",
+    "sros": [
+      {
+        "id": "TEKKALI(114)",
+        "name": "TEKKALI(114)"
+      }
+    ]
+  },
+  {
+    "id": "178",
+    "name": "SRIKAKULAM (O.B)(115)",
+    "sros": [
+      {
+        "id": "SRIKAKULAM (O.B)(115)",
+        "name": "SRIKAKULAM (O.B)(115)"
+      }
+    ]
+  },
+  {
+    "id": "179",
+    "name": "VIJAYANAGARAM (WEST)(213)",
+    "sros": [
+      {
+        "id": "VIJAYANAGARAM (WEST)(213)",
+        "name": "VIJAYANAGARAM (WEST)(213)"
+      }
+    ]
+  },
+  {
+    "id": "180",
+    "name": "LANKELAPALEM(316)",
+    "sros": [
+      {
+        "id": "LANKELAPALEM(316)",
+        "name": "LANKELAPALEM(316)"
+      }
+    ]
+  },
+  {
+    "id": "181",
+    "name": "PEDAGANTYADA(317)",
+    "sros": [
+      {
+        "id": "PEDAGANTYADA(317)",
+        "name": "PEDAGANTYADA(317)"
+      }
+    ]
+  },
+  {
+    "id": "182",
+    "name": "PENDURTHI(318)",
+    "sros": [
+      {
+        "id": "PENDURTHI(318)",
+        "name": "PENDURTHI(318)"
+      }
+    ]
+  },
+  {
+    "id": "183",
+    "name": "ANANDAPURAM(319)",
+    "sros": [
+      {
+        "id": "ANANDAPURAM(319)",
+        "name": "ANANDAPURAM(319)"
+      }
+    ]
+  },
+  {
+    "id": "184",
+    "name": "PIDIMGOYYA(432)",
+    "sros": [
+      {
+        "id": "PIDIMGOYYA(432)",
+        "name": "PIDIMGOYYA(432)"
+      }
+    ]
+  },
+  {
+    "id": "185",
+    "name": "VATLUR(525)",
+    "sros": [
+      {
+        "id": "VATLUR(525)",
+        "name": "VATLUR(525)"
+      }
+    ]
+  },
+  {
+    "id": "186",
+    "name": "GUNIPUDI(526)",
+    "sros": [
+      {
+        "id": "GUNIPUDI(526)",
+        "name": "GUNIPUDI(526)"
+      }
+    ]
+  },
+  {
+    "id": "187",
+    "name": "SAJJAPURAM(527)",
+    "sros": [
+      {
+        "id": "SAJJAPURAM(527)",
+        "name": "SAJJAPURAM(527)"
+      }
+    ]
+  },
+  {
+    "id": "188",
+    "name": "NUNNA(628)",
+    "sros": [
+      {
+        "id": "NUNNA(628)",
+        "name": "NUNNA(628)"
+      }
+    ]
+  },
+  {
+    "id": "189",
+    "name": "KORETIPADU(732)",
+    "sros": [
+      {
+        "id": "KORETIPADU(732)",
+        "name": "KORETIPADU(732)"
+      }
+    ]
+  },
+  {
+    "id": "190",
+    "name": "STONE HOUSEPET(918)",
+    "sros": [
+      {
+        "id": "STONE HOUSEPET(918)",
+        "name": "STONE HOUSEPET(918)"
+      }
+    ]
+  },
+  {
+    "id": "191",
+    "name": "BUJABUJA NELLORE(919)",
+    "sros": [
+      {
+        "id": "BUJABUJA NELLORE(919)",
+        "name": "BUJABUJA NELLORE(919)"
+      }
+    ]
+  },
+  {
+    "id": "192",
+    "name": "CHITTOOR RURAL(1023)",
+    "sros": [
+      {
+        "id": "CHITTOOR RURAL(1023)",
+        "name": "CHITTOOR RURAL(1023)"
+      }
+    ]
+  },
+  {
+    "id": "193",
+    "name": "B.KOTHAKOTA(1024)",
+    "sros": [
+      {
+        "id": "B.KOTHAKOTA(1024)",
+        "name": "B.KOTHAKOTA(1024)"
+      }
+    ]
+  },
+  {
+    "id": "194",
+    "name": "TIRUPATHI RURAL(1025)",
+    "sros": [
+      {
+        "id": "TIRUPATHI RURAL(1025)",
+        "name": "TIRUPATHI RURAL(1025)"
+      }
+    ]
+  },
+  {
+    "id": "195",
+    "name": "KADAPA RURAL(1118)",
+    "sros": [
+      {
+        "id": "KADAPA RURAL(1118)",
+        "name": "KADAPA RURAL(1118)"
+      }
+    ]
+  },
+  {
+    "id": "196",
+    "name": "ANANTAPUR RURAL(1221)",
+    "sros": [
+      {
+        "id": "ANANTAPUR RURAL(1221)",
+        "name": "ANANTAPUR RURAL(1221)"
+      }
+    ]
+  },
+  {
+    "id": "197",
+    "name": "BANDI ATMAKUR(1323)",
+    "sros": [
+      {
+        "id": "BANDI ATMAKUR(1323)",
+        "name": "BANDI ATMAKUR(1323)"
+      }
+    ]
+  },
+  {
+    "id": "198",
+    "name": "PUNGANUR(1008)",
+    "sros": [
+      {
+        "id": "PUNGANUR(1008)",
+        "name": "PUNGANUR(1008)"
+      }
+    ]
+  },
+  {
+    "id": "199",
+    "name": "ORVAKAL(1319)",
+    "sros": [
+      {
+        "id": "ORVAKAL(1319)",
+        "name": "ORVAKAL(1319)"
+      }
+    ]
+  },
+  {
+    "id": "200",
+    "name": "DHONE(1307)",
+    "sros": [
+      {
+        "id": "DHONE(1307)",
+        "name": "DHONE(1307)"
+      }
+    ]
+  },
+  {
+    "id": "201",
+    "name": "GUNTAKAL(1206)",
+    "sros": [
+      {
+        "id": "GUNTAKAL(1206)",
+        "name": "GUNTAKAL(1206)"
+      }
+    ]
+  },
+  {
+    "id": "202",
+    "name": "IBRAHIMPATNAM(616)",
+    "sros": [
+      {
+        "id": "IBRAHIMPATNAM(616)",
+        "name": "IBRAHIMPATNAM(616)"
+      }
+    ]
+  },
+  {
+    "id": "203",
+    "name": "VINJAMUR(916)",
+    "sros": [
+      {
+        "id": "VINJAMUR(916)",
+        "name": "VINJAMUR(916)"
+      }
+    ]
+  },
+  {
+    "id": "204",
+    "name": "CHIMAKURTHY(805)",
+    "sros": [
+      {
+        "id": "CHIMAKURTHY(805)",
+        "name": "CHIMAKURTHY(805)"
+      }
+    ]
+  },
+  {
+    "id": "205",
+    "name": "KANDUKUR(809)",
+    "sros": [
+      {
+        "id": "KANDUKUR(809)",
+        "name": "KANDUKUR(809)"
+      }
+    ]
+  },
+  {
+    "id": "206",
+    "name": "MARKAPURAM(811)",
+    "sros": [
+      {
+        "id": "MARKAPURAM(811)",
+        "name": "MARKAPURAM(811)"
+      }
+    ]
+  },
+  {
+    "id": "207",
+    "name": "SANTANUTHALAPADU(814)",
+    "sros": [
+      {
+        "id": "SANTANUTHALAPADU(814)",
+        "name": "SANTANUTHALAPADU(814)"
+      }
+    ]
+  },
+  {
+    "id": "208",
+    "name": "ONGOLE (R.O)(818)",
+    "sros": [
+      {
+        "id": "ONGOLE (R.O)(818)",
+        "name": "ONGOLE (R.O)(818)"
+      }
+    ]
+  },
+  {
+    "id": "209",
+    "name": "GURAJALA(722)",
+    "sros": [
+      {
+        "id": "GURAJALA(722)",
+        "name": "GURAJALA(722)"
+      }
+    ]
+  },
+  {
+    "id": "210",
+    "name": "KAKUMANU(724)",
+    "sros": [
+      {
+        "id": "KAKUMANU(724)",
+        "name": "KAKUMANU(724)"
+      }
+    ]
+  },
+  {
+    "id": "211",
+    "name": "VINUKONDA(730)",
+    "sros": [
+      {
+        "id": "VINUKONDA(730)",
+        "name": "VINUKONDA(730)"
+      }
+    ]
+  },
+  {
+    "id": "212",
+    "name": "BATTIPROLU(701)",
+    "sros": [
+      {
+        "id": "BATTIPROLU(701)",
+        "name": "BATTIPROLU(701)"
+      }
+    ]
+  },
+  {
+    "id": "213",
+    "name": "GUNADALA(615)",
+    "sros": [
+      {
+        "id": "GUNADALA(615)",
+        "name": "GUNADALA(615)"
+      }
+    ]
+  },
+  {
+    "id": "214",
+    "name": "NANDIGAMA(619)",
+    "sros": [
+      {
+        "id": "NANDIGAMA(619)",
+        "name": "NANDIGAMA(619)"
+      }
+    ]
+  },
+  {
+    "id": "215",
+    "name": "PATAMATA(621)",
+    "sros": [
+      {
+        "id": "PATAMATA(621)",
+        "name": "PATAMATA(621)"
+      }
+    ]
+  },
+  {
+    "id": "216",
+    "name": "PAMARRU(610)",
+    "sros": [
+      {
+        "id": "PAMARRU(610)",
+        "name": "PAMARRU(610)"
+      }
+    ]
+  },
+  {
+    "id": "217",
+    "name": "BHIMAVARAM(515)",
+    "sros": [
+      {
+        "id": "BHIMAVARAM(515)",
+        "name": "BHIMAVARAM(515)"
+      }
+    ]
+  },
+  {
+    "id": "218",
+    "name": "MOGALTHURU(517)",
+    "sros": [
+      {
+        "id": "MOGALTHURU(517)",
+        "name": "MOGALTHURU(517)"
+      }
+    ]
+  },
+  {
+    "id": "219",
+    "name": "VEERASAVARAM(524)",
+    "sros": [
+      {
+        "id": "VEERASAVARAM(524)",
+        "name": "VEERASAVARAM(524)"
+      }
+    ]
+  },
+  {
+    "id": "220",
+    "name": "CHINTALAPUDI(503)",
+    "sros": [
+      {
+        "id": "CHINTALAPUDI(503)",
+        "name": "CHINTALAPUDI(503)"
+      }
+    ]
+  },
+  {
+    "id": "221",
+    "name": "VEGESWARAPURAM(510)",
+    "sros": [
+      {
+        "id": "VEGESWARAPURAM(510)",
+        "name": "VEGESWARAPURAM(510)"
+      }
+    ]
+  },
+  {
+    "id": "222",
+    "name": "MAMIDIKUDURU(423)",
+    "sros": [
+      {
+        "id": "MAMIDIKUDURU(423)",
+        "name": "MAMIDIKUDURU(423)"
+      }
+    ]
+  },
+  {
+    "id": "223",
+    "name": "RAZOLE(426)",
+    "sros": [
+      {
+        "id": "RAZOLE(426)",
+        "name": "RAZOLE(426)"
+      }
+    ]
+  },
+  {
+    "id": "224",
+    "name": "RAJAHMUNDRY (R.O)(428)",
+    "sros": [
+      {
+        "id": "RAJAHMUNDRY (R.O)(428)",
+        "name": "RAJAHMUNDRY (R.O)(428)"
+      }
+    ]
+  },
+  {
+    "id": "225",
+    "name": "MANDAPETA(405)",
+    "sros": [
+      {
+        "id": "MANDAPETA(405)",
+        "name": "MANDAPETA(405)"
+      }
+    ]
+  },
+  {
+    "id": "226",
+    "name": "TUNI(411)",
+    "sros": [
+      {
+        "id": "TUNI(411)",
+        "name": "TUNI(411)"
+      }
+    ]
+  },
+  {
+    "id": "227",
+    "name": "TALLAREVU(412)",
+    "sros": [
+      {
+        "id": "TALLAREVU(412)",
+        "name": "TALLAREVU(412)"
+      }
+    ]
+  },
+  {
+    "id": "228",
+    "name": "MADUGULA(306)",
+    "sros": [
+      {
+        "id": "MADUGULA(306)",
+        "name": "MADUGULA(306)"
+      }
+    ]
+  },
+  {
+    "id": "229",
+    "name": "NAKKAPALLI(308)",
+    "sros": [
+      {
+        "id": "NAKKAPALLI(308)",
+        "name": "NAKKAPALLI(308)"
+      }
+    ]
+  },
+  {
+    "id": "230",
+    "name": "VISAKHAPATNAM(R.O)(311)",
+    "sros": [
+      {
+        "id": "VISAKHAPATNAM(R.O)(311)",
+        "name": "VISAKHAPATNAM(R.O)(311)"
+      }
+    ]
+  },
+  {
+    "id": "231",
+    "name": "BOBBILI(201)",
+    "sros": [
+      {
+        "id": "BOBBILI(201)",
+        "name": "BOBBILI(201)"
+      }
+    ]
+  },
+  {
+    "id": "232",
+    "name": "PARVATHIPURAM(208)",
+    "sros": [
+      {
+        "id": "PARVATHIPURAM(208)",
+        "name": "PARVATHIPURAM(208)"
+      }
+    ]
+  },
+  {
+    "id": "233",
+    "name": "C.G.GALLU(1002)",
+    "sros": [
+      {
+        "id": "C.G.GALLU(1002)",
+        "name": "C.G.GALLU(1002)"
+      }
+    ]
+  },
+  {
+    "id": "234",
+    "name": "KUPPAM(1004)",
+    "sros": [
+      {
+        "id": "KUPPAM(1004)",
+        "name": "KUPPAM(1004)"
+      }
+    ]
+  },
+  {
+    "id": "235",
+    "name": "ALLAGADDA(1302)",
+    "sros": [
+      {
+        "id": "ALLAGADDA(1302)",
+        "name": "ALLAGADDA(1302)"
+      }
+    ]
+  },
+  {
+    "id": "236",
+    "name": "ASPARI(1304)",
+    "sros": [
+      {
+        "id": "ASPARI(1304)",
+        "name": "ASPARI(1304)"
+      }
+    ]
+  },
+  {
+    "id": "237",
+    "name": "KOILAKUNTLA(1310)",
+    "sros": [
+      {
+        "id": "KOILAKUNTLA(1310)",
+        "name": "KOILAKUNTLA(1310)"
+      }
+    ]
+  },
+  {
+    "id": "238",
+    "name": "NANDYAL(1313)",
+    "sros": [
+      {
+        "id": "NANDYAL(1313)",
+        "name": "NANDYAL(1313)"
+      }
+    ]
+  },
+  {
+    "id": "239",
+    "name": "PATHIKONDA(1316)",
+    "sros": [
+      {
+        "id": "PATHIKONDA(1316)",
+        "name": "PATHIKONDA(1316)"
+      }
+    ]
+  },
+  {
+    "id": "240",
+    "name": "CHANDRAGIRI(1012)",
+    "sros": [
+      {
+        "id": "CHANDRAGIRI(1012)",
+        "name": "CHANDRAGIRI(1012)"
+      }
+    ]
+  },
+  {
+    "id": "241",
+    "name": "PAKALA(1015)",
+    "sros": [
+      {
+        "id": "PAKALA(1015)",
+        "name": "PAKALA(1015)"
+      }
+    ]
+  },
+  {
+    "id": "242",
+    "name": "PUTTUR(1017)",
+    "sros": [
+      {
+        "id": "PUTTUR(1017)",
+        "name": "PUTTUR(1017)"
+      }
+    ]
+  },
+  {
+    "id": "243",
+    "name": "GOOTY(1205)",
+    "sros": [
+      {
+        "id": "GOOTY(1205)",
+        "name": "GOOTY(1205)"
+      }
+    ]
+  },
+  {
+    "id": "244",
+    "name": "KADIRI(1208)",
+    "sros": [
+      {
+        "id": "KADIRI(1208)",
+        "name": "KADIRI(1208)"
+      }
+    ]
+  },
+  {
+    "id": "245",
+    "name": "KANEKAL(1210)",
+    "sros": [
+      {
+        "id": "KANEKAL(1210)",
+        "name": "KANEKAL(1210)"
+      }
+    ]
+  },
+  {
+    "id": "246",
+    "name": "URAVAKONDA(1218)",
+    "sros": [
+      {
+        "id": "URAVAKONDA(1218)",
+        "name": "URAVAKONDA(1218)"
+      }
+    ]
+  },
+  {
+    "id": "247",
+    "name": "BADVEL(1101)",
+    "sros": [
+      {
+        "id": "BADVEL(1101)",
+        "name": "BADVEL(1101)"
+      }
+    ]
+  },
+  {
+    "id": "248",
+    "name": "JAMMALAMADUGU(1103)",
+    "sros": [
+      {
+        "id": "JAMMALAMADUGU(1103)",
+        "name": "JAMMALAMADUGU(1103)"
+      }
+    ]
+  },
+  {
+    "id": "249",
+    "name": "PULIVENDULA(1109)",
+    "sros": [
+      {
+        "id": "PULIVENDULA(1109)",
+        "name": "PULIVENDULA(1109)"
+      }
+    ]
+  },
+  {
+    "id": "250",
+    "name": "Guntur (R.O.)(715)",
+    "sros": [
+      {
+        "id": "Guntur (R.O.)(715)",
+        "name": "Guntur (R.O.)(715)"
+      }
+    ]
+  },
+  {
+    "id": "251",
+    "name": "VENKATAGIRI(915)",
+    "sros": [
+      {
+        "id": "VENKATAGIRI(915)",
+        "name": "VENKATAGIRI(915)"
+      }
+    ]
+  },
+  {
+    "id": "252",
+    "name": "BANGARUPALEM(1001)",
+    "sros": [
+      {
+        "id": "BANGARUPALEM(1001)",
+        "name": "BANGARUPALEM(1001)"
+      }
+    ]
+  },
+  {
+    "id": "253",
+    "name": "KALIKIRI(1003)",
+    "sros": [
+      {
+        "id": "KALIKIRI(1003)",
+        "name": "KALIKIRI(1003)"
+      }
+    ]
+  },
+  {
+    "id": "254",
+    "name": "THAMBALLAPALLE(1009)",
+    "sros": [
+      {
+        "id": "THAMBALLAPALLE(1009)",
+        "name": "THAMBALLAPALLE(1009)"
+      }
+    ]
+  },
+  {
+    "id": "255",
+    "name": "CHITTOOR(R.O)(1011)",
+    "sros": [
+      {
+        "id": "CHITTOOR(R.O)(1011)",
+        "name": "CHITTOOR(R.O)(1011)"
+      }
+    ]
+  },
+  {
+    "id": "256",
+    "name": "ADONI(1301)",
+    "sros": [
+      {
+        "id": "ADONI(1301)",
+        "name": "ADONI(1301)"
+      }
+    ]
+  },
+  {
+    "id": "257",
+    "name": "ALUR(1303)",
+    "sros": [
+      {
+        "id": "ALUR(1303)",
+        "name": "ALUR(1303)"
+      }
+    ]
+  },
+  {
+    "id": "258",
+    "name": "KOSIGI(1311)",
+    "sros": [
+      {
+        "id": "KOSIGI(1311)",
+        "name": "KOSIGI(1311)"
+      }
+    ]
+  },
+  {
+    "id": "259",
+    "name": "NANDIKOTKUR(1312)",
+    "sros": [
+      {
+        "id": "NANDIKOTKUR(1312)",
+        "name": "NANDIKOTKUR(1312)"
+      }
+    ]
+  },
+  {
+    "id": "260",
+    "name": "OWK(1314)",
+    "sros": [
+      {
+        "id": "OWK(1314)",
+        "name": "OWK(1314)"
+      }
+    ]
+  },
+  {
+    "id": "261",
+    "name": "PANYAM(1315)",
+    "sros": [
+      {
+        "id": "PANYAM(1315)",
+        "name": "PANYAM(1315)"
+      }
+    ]
+  },
+  {
+    "id": "262",
+    "name": "PEAPALLY(1317)",
+    "sros": [
+      {
+        "id": "PEAPALLY(1317)",
+        "name": "PEAPALLY(1317)"
+      }
+    ]
+  },
+  {
+    "id": "263",
+    "name": "YEMMIGANUR(1320)",
+    "sros": [
+      {
+        "id": "YEMMIGANUR(1320)",
+        "name": "YEMMIGANUR(1320)"
+      }
+    ]
+  },
+  {
+    "id": "264",
+    "name": "KURNOOL(R.O)(1321)",
+    "sros": [
+      {
+        "id": "KURNOOL(R.O)(1321)",
+        "name": "KURNOOL(R.O)(1321)"
+      }
+    ]
+  },
+  {
+    "id": "265",
+    "name": "BUCHIREDDYPALEM(903)",
+    "sros": [
+      {
+        "id": "BUCHIREDDYPALEM(903)",
+        "name": "BUCHIREDDYPALEM(903)"
+      }
+    ]
+  },
+  {
+    "id": "266",
+    "name": "ELURU (R.O)(511)",
+    "sros": [
+      {
+        "id": "ELURU (R.O)(511)",
+        "name": "ELURU (R.O)(511)"
+      }
+    ]
+  },
+  {
+    "id": "267",
+    "name": "HIRAMANDALAM(102)",
+    "sros": [
+      {
+        "id": "HIRAMANDALAM(102)",
+        "name": "HIRAMANDALAM(102)"
+      }
+    ]
+  },
+  {
+    "id": "268",
+    "name": "JAGGAIAHPET(624)",
+    "sros": [
+      {
+        "id": "JAGGAIAHPET(624)",
+        "name": "JAGGAIAHPET(624)"
+      }
+    ]
+  },
+  {
+    "id": "269",
+    "name": "PONDURU(110)",
+    "sros": [
+      {
+        "id": "PONDURU(110)",
+        "name": "PONDURU(110)"
+      }
+    ]
+  },
+  {
+    "id": "270",
+    "name": "RAMPACHODAVARAM RAMPACHODAVAR(433)",
+    "sros": [
+      {
+        "id": "RAMPACHODAVARAM RAMPACHODAVAR(433)",
+        "name": "RAMPACHODAVARAM RAMPACHODAVAR(433)"
+      }
+    ]
+  },
+  {
+    "id": "271",
+    "name": "PADERU(320)",
+    "sros": [
+      {
+        "id": "PADERU(320)",
+        "name": "PADERU(320)"
+      }
+    ]
+  },
+  {
+    "id": "272",
+    "name": "ANANTHAVARAM(733)",
+    "sros": [
+      {
+        "id": "ANANTHAVARAM(733)",
+        "name": "ANANTHAVARAM(733)"
+      }
+    ]
+  },
+  {
+    "id": "273",
+    "name": "MANDADAM(734)",
+    "sros": [
+      {
+        "id": "MANDADAM(734)",
+        "name": "MANDADAM(734)"
+      }
+    ]
+  },
+  {
+    "id": "274",
+    "name": "THULLURU(735)",
+    "sros": [
+      {
+        "id": "THULLURU(735)",
+        "name": "THULLURU(735)"
+      }
+    ]
+  },
+  {
+    "id": "275",
+    "name": "PATHAPATNAM(109)",
+    "sros": [
+      {
+        "id": "PATHAPATNAM(109)",
+        "name": "PATHAPATNAM(109)"
+      }
+    ]
+  },
+  {
+    "id": "276",
+    "name": "THERLAM(211)",
+    "sros": [
+      {
+        "id": "THERLAM(211)",
+        "name": "THERLAM(211)"
+      }
+    ]
+  },
+  {
+    "id": "277",
+    "name": "SABBAVARAM(309)",
+    "sros": [
+      {
+        "id": "SABBAVARAM(309)",
+        "name": "SABBAVARAM(309)"
+      }
+    ]
+  },
+  {
+    "id": "278",
+    "name": "PRATHIPADU(408)",
+    "sros": [
+      {
+        "id": "PRATHIPADU(408)",
+        "name": "PRATHIPADU(408)"
+      }
+    ]
+  },
+  {
+    "id": "279",
+    "name": "SAMALKOTA(410)",
+    "sros": [
+      {
+        "id": "SAMALKOTA(410)",
+        "name": "SAMALKOTA(410)"
+      }
+    ]
+  },
+  {
+    "id": "280",
+    "name": "RAVULAPALEM(429)",
+    "sros": [
+      {
+        "id": "RAVULAPALEM(429)",
+        "name": "RAVULAPALEM(429)"
+      }
+    ]
+  },
+  {
+    "id": "281",
+    "name": "NARSAPUR(518)",
+    "sros": [
+      {
+        "id": "NARSAPUR(518)",
+        "name": "NARSAPUR(518)"
+      }
+    ]
+  },
+  {
+    "id": "282",
+    "name": "PENUGONDA(520)",
+    "sros": [
+      {
+        "id": "PENUGONDA(520)",
+        "name": "PENUGONDA(520)"
+      }
+    ]
+  },
+  {
+    "id": "283",
+    "name": "KANCHIKACHERLA(618)",
+    "sros": [
+      {
+        "id": "KANCHIKACHERLA(618)",
+        "name": "KANCHIKACHERLA(618)"
+      }
+    ]
+  },
+  {
+    "id": "284",
+    "name": "DUGGIRALA(704)",
+    "sros": [
+      {
+        "id": "DUGGIRALA(704)",
+        "name": "DUGGIRALA(704)"
+      }
+    ]
+  },
+  {
+    "id": "285",
+    "name": "CHILAKALURIPET(721)",
+    "sros": [
+      {
+        "id": "CHILAKALURIPET(721)",
+        "name": "CHILAKALURIPET(721)"
+      }
+    ]
+  },
+  {
+    "id": "286",
+    "name": "KROSUR(723)",
+    "sros": [
+      {
+        "id": "KROSUR(723)",
+        "name": "KROSUR(723)"
+      }
+    ]
+  },
+  {
+    "id": "287",
+    "name": "RAPUR(912)",
+    "sros": [
+      {
+        "id": "RAPUR(912)",
+        "name": "RAPUR(912)"
+      }
+    ]
+  },
+  {
+    "id": "288",
+    "name": "UDAYAGIRI(914)",
+    "sros": [
+      {
+        "id": "UDAYAGIRI(914)",
+        "name": "UDAYAGIRI(914)"
+      }
+    ]
+  },
+  {
+    "id": "289",
+    "name": "MADANAPALLE(1005)",
+    "sros": [
+      {
+        "id": "MADANAPALLE(1005)",
+        "name": "MADANAPALLE(1005)"
+      }
+    ]
+  },
+  {
+    "id": "290",
+    "name": "CHITVEL(1102)",
+    "sros": [
+      {
+        "id": "CHITVEL(1102)",
+        "name": "CHITVEL(1102)"
+      }
+    ]
+  },
+  {
+    "id": "291",
+    "name": "CHILAMATHUR(1202)",
+    "sros": [
+      {
+        "id": "CHILAMATHUR(1202)",
+        "name": "CHILAMATHUR(1202)"
+      }
+    ]
+  },
+  {
+    "id": "292",
+    "name": "RAYADURG(1214)",
+    "sros": [
+      {
+        "id": "RAYADURG(1214)",
+        "name": "RAYADURG(1214)"
+      }
+    ]
+  },
+  {
+    "id": "293",
+    "name": "TANAKAL(1217)",
+    "sros": [
+      {
+        "id": "TANAKAL(1217)",
+        "name": "TANAKAL(1217)"
+      }
+    ]
+  },
+  {
+    "id": "294",
+    "name": "SIRVELLA(1318)",
+    "sros": [
+      {
+        "id": "SIRVELLA(1318)",
+        "name": "SIRVELLA(1318)"
+      }
+    ]
+  },
+  {
+    "id": "295",
+    "name": "BETAMCHERLA(1324)",
+    "sros": [
+      {
+        "id": "BETAMCHERLA(1324)",
+        "name": "BETAMCHERLA(1324)"
+      }
+    ]
+  }
 ]
