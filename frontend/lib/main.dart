@@ -3,12 +3,14 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:provider/provider.dart';
 import 'screens/search_screen.dart';
 import 'services/ec_service.dart';
+import 'services/location_service.dart';
 
 void main() {
   runApp(
     MultiProvider(
       providers: [
         Provider(create: (_) => ECService()),
+        Provider(create: (_) => LocationService()),
       ],
       child: const ECOpenApp(),
     ),

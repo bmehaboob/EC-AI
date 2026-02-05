@@ -1,0 +1,34 @@
+[
+    {
+        "id": "01",
+        "name": "SRIKAKULAM",
+        "sros": [
+            {
+                "id": "0101",
+                "name": "SRIKAKULAM"
+            },
+            {
+                "id": "0102",
+                "name": "NARASANNAPETA"
+            }
+        ]
+    },
+    {
+        "id": "02",
+        "name": "VISAKHAPATNAM",
+        "sros": [
+            {
+                "id": "0201",
+                "name": "VISAKHAPATNAM"
+            },
+            {
+                "id": "0202",
+                "name": "ANAKAPALLI"
+            },
+            {
+                "id": "0205",
+                "name": "DWARAKANAGAR"
+            }
+        ]
+    }
+]
